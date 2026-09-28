@@ -1,0 +1,26 @@
+INPUT DATA
+----------
+Department searches:
+1. Development
+2. HR
+3. IT
+
+
+OUTPUT
+------
+Level-order Traversal:
+CEO  HR  Finance  IT  Development  Testing  Frontend  Backend
+
+Department Search Results:
+
+Searching: Development
+Linear Search Comparisons = 3
+Binary Search Comparisons = 3
+
+Searching: HR
+Linear Search Comparisons = 6
+Binary Search Comparisons = 3
+
+Searching: IT
+Linear Search Comparisons = 7
+Binary Search Comparisons = 4
